@@ -3,7 +3,7 @@
 Minimal UI Design in Flutter
 
 <p align="center">
-  <img src="flutter_universe.png" alt="flutter minimal ui" title="Screenshot">
+  <img src="AppEmPrendo.png" alt="flutter minimal ui" title="Screenshot">
 </p>
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/neXfa4J752A?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/neXfa4J752A?label=Likes&style=social) <br>
